@@ -8,11 +8,30 @@ const props = defineProps<{ project: ProjectCardData }>();
 const visibleTopics = computed(() => props.project.topics.slice(0, 10));
 const extraTopicCount = computed(() => Math.max(0, props.project.topics.length - visibleTopics.value.length));
 const allTopics = computed(() => props.project.topics.join(" · "));
+
+function resolvePreview(source: string) {
+  return /^https?:\/\//i.test(source) ? source : withBase(source);
+}
+
+function handlePreviewError(event: Event) {
+  const image = event.currentTarget as HTMLImageElement;
+  const fallback = props.project.previewFallback;
+  if (!fallback || image.dataset.fallbackApplied === "true") return;
+  image.dataset.fallbackApplied = "true";
+  image.src = withBase(fallback);
+}
 </script>
 
 <template>
   <article class="project-card" :style="{ '--project-accent': props.project.accent }">
-    <img :src="withBase(props.project.preview)" :alt="`${props.project.name} 预览`" loading="lazy" />
+    <div class="project-card-preview" :data-focus="props.project.previewFocus ?? 'center'">
+      <img
+        :src="resolvePreview(props.project.preview)"
+        :alt="`${props.project.name} 预览`"
+        loading="lazy"
+        @error="handlePreviewError"
+      />
+    </div>
     <div class="project-card-body">
       <div class="project-card-head">
         <h3>{{ props.project.name }}</h3>

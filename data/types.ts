@@ -36,6 +36,8 @@ export interface ProjectCardData {
   description: string;
   repo: string;
   preview: string;
+  previewFallback?: string;
+  previewFocus?: "left" | "bottom" | "right" | "bottom-right";
   accent: string;
   topics: string[];
 }
