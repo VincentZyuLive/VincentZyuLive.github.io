@@ -8,7 +8,7 @@ VincentZyuLive 的直播环境、OBS 舞台与项目展示站。
 - 构建：`npm run docs:build`
 - 数据同步：`npm run sync:site-data`
 
-站点每小时通过 GitHub Actions 刷新 B站公开直播间快照和 GitHub topics。
+站点每小时整点通过 GitHub Actions 刷新 B站公开直播间快照和 GitHub topics。
 
 ## 数据来源
 
