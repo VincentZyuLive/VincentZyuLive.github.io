@@ -1,0 +1,19 @@
+{
+  "name": "vincentzyulive-pages",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync:site-data": "node scripts/sync-site-data.mjs",
+    "docs:dev": "npm run sync:site-data && vitepress dev --port 16162",
+    "docs:build": "npm run sync:site-data && vitepress build",
+    "docs:preview": "vitepress preview --port 16162"
+  },
+  "devDependencies": {
+    "mermaid": "^11.17.2",
+    "vitepress": "1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  },
+  "dependencies": {
+    "@free-fonts/lxgw-wenkai": "^1.0.1"
+  }
+}
