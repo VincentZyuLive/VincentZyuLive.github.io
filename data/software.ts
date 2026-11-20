@@ -22,7 +22,7 @@ export const software: SoftwareItem[] = [
     version: "2.0.300",
     category: "播放器",
     note: "基于 Flutter 开发的优雅多平台音乐播放器，支持 Lua 脚本插件与外部 WebSocket 状态广播。",
-    url: "https://github.com/VincentZyu233/Lazer",
+    url: "https://github.com/chuxuehaocai/Lazer",
   },
   {
     name: "uv",
