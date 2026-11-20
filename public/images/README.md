@@ -17,9 +17,9 @@
 
 | 站点本地相对路径 | 原始仓库内相对路径 | 公网 Raw 访问直链 (HTTPS) | 用途说明 |
 | :--- | :--- | :--- | :--- |
-| `splayer-status-html-overlay-for-obs/preview.obs.png` | `docs/preview.obs.png` | [Raw Link](https://raw.githubusercontent.com/VincentZyuLive/splayer-status-html-overlay-for-obs/main/docs/preview.obs.png) | OBS 完整直播推流视口实机效果图 |
-| `splayer-status-html-overlay-for-obs/preview.overlay-only.png` | `docs/preview.overlay-only.png` | [Raw Link](https://raw.githubusercontent.com/VincentZyuLive/splayer-status-html-overlay-for-obs/main/docs/preview.overlay-only.png) | 仅 HTML 歌词卡片特写展示图 |
-| `splayer-status-html-overlay-for-obs/preview.phone.png` | `docs/preview.phone.png` | [Raw Link](https://raw.githubusercontent.com/VincentZyuLive/splayer-status-html-overlay-for-obs/main/docs/preview.phone.png) | B站手机客户端直播观看视角效果图 |
+| `splayer-status-html-overlay-for-obs/preview.obs.png` | `docs/images/preview/preview.obs.png` | [Raw Link](https://raw.githubusercontent.com/VincentZyuLive/splayer-status-html-overlay-for-obs/main/docs/images/preview/preview.obs.png) | OBS 完整直播推流视口实机效果图 |
+| `splayer-status-html-overlay-for-obs/preview.overlay-only.png` | `docs/images/preview/preview.overlay-only.png` | [Raw Link](https://raw.githubusercontent.com/VincentZyuLive/splayer-status-html-overlay-for-obs/main/docs/images/preview/preview.overlay-only.png) | 仅 HTML 歌词卡片特写展示图 |
+| `splayer-status-html-overlay-for-obs/preview.phone.png` | `docs/images/preview/preview.phone.png` | [Raw Link](https://raw.githubusercontent.com/VincentZyuLive/splayer-status-html-overlay-for-obs/main/docs/images/preview/preview.phone.png) | B站手机客户端直播观看视角效果图 |
 | `splayer-status-html-overlay-for-obs/preview.card.png` | *(卡片缩略裁剪版)* | [Raw Link](https://raw.githubusercontent.com/VincentZyuLive/.github/main/profile/assets/splayer-status-html-overlay.png) | 首页项目卡片封面缩略展示图 |
 
 ---
