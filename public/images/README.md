@@ -47,7 +47,8 @@
 
 | 站点本地相对路径 | 原始仓库内相对路径 | 公网 Raw 访问直链 (HTTPS) | 用途说明 |
 | :--- | :--- | :--- | :--- |
-| `lazer-plugin-ws-server-bridge/preview.lazer-html-overlay-obs-sync.png` | `docs/images/preview/preview.lazer-html-overlay-obs-sync.png` | [Raw Link](https://raw.githubusercontent.com/VincentZyuLive/lazer-plugin-ws-server-bridge/main/docs/images/preview/preview.lazer-html-overlay-obs-sync.png) | Lazer 客户端与 OBS 挂件联动实机双屏对比展示 |
+| `lazer-plugin-ws-server-bridge/preview.card.png` | *(卡片特写 16:10 裁剪版)* | [Raw Link](https://raw.githubusercontent.com/VincentZyuLive/lazer-plugin-ws-server-bridge/main/docs/images/preview/preview.lazer-html-overlay-obs-sync.png) | 首页项目卡片封面：左侧 Lazer 客户端 + 右侧 OBS SPlayer 外部挂件同步实机特写 |
+| `lazer-plugin-ws-server-bridge/preview.lazer-html-overlay-obs-sync.png` | `docs/images/preview/preview.lazer-html-overlay-obs-sync.png` | [Raw Link](https://raw.githubusercontent.com/VincentZyuLive/lazer-plugin-ws-server-bridge/main/docs/images/preview/preview.lazer-html-overlay-obs-sync.png) | Lazer 客户端与 OBS 挂件联动实机双屏对比展示完整图 |
 | `lazer-plugin-ws-server-bridge/preview.lazer-player.jpg` | *(Lazer 播放器特写)* | [Raw Link](https://raw.githubusercontent.com/VincentZyuLive/lazer-plugin-ws-server-bridge/main/docs/images/preview/preview.lazer-html-overlay-obs-sync.png) | Lazer 播放歌曲 (ラグトレイン) 实机主窗口特写展示 |
 
 ---

@@ -18,11 +18,11 @@ export const software: SoftwareItem[] = [
     url: "https://github.com/SPlayer-Dev/SPlayer-Next",
   },
   {
-    name: "go-musicfox (VincentZyu Fork)",
-    version: "5.1.0-fork",
+    name: "Lazer",
+    version: "2.0.300",
     category: "播放器",
-    note: "个人维护的 Go CLI 播放器，提供 SPlayer-Next 兼容的 HTTP/WS API 与 OBS 歌曲 Overlay 数据。",
-    url: "https://github.com/VincentZyuLive/go-musicfox-vincentzyu-fork",
+    note: "基于 Flutter 开发的优雅多平台音乐播放器，支持 Lua 脚本插件与外部 WebSocket 状态广播。",
+    url: "https://github.com/VincentZyu233/Lazer",
   },
   {
     name: "uv",
