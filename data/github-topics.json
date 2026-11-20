@@ -53,5 +53,29 @@
     "live-streaming",
     "obs-browser-source",
     "webui"
+  ],
+  "VincentZyuLive/lazer-plugin-ws-server-bridge": [
+    "bridge",
+    "lazer",
+    "livestreaming",
+    "lua",
+    "obs",
+    "osu",
+    "osu-lazer",
+    "overlay",
+    "plugin",
+    "websocket"
+  ],
+  "VincentZyuLive/obs-manim-like-motion": [
+    "animation",
+    "cpp20",
+    "hlsl",
+    "livestreaming",
+    "manim",
+    "motion-graphics",
+    "obs-plugin",
+    "obs-studio",
+    "shader",
+    "obs-transition"
   ]
 }

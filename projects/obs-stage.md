@@ -20,12 +20,12 @@ OBS Stage 负责水色雾蓝舞台背景、圆角内容槽、前景装饰、头�
 
 ## 🖼️ 效果预览
 
-![OBS Stage WebUI](/images/preview.webui.png)
+![OBS Stage WebUI](/images/VincentZyu233-OBS-stage/preview.webui.png)
 
-![OBS Stage 直播画面效果](/images/preview.stream-only.png)
+![OBS Stage 直播画面效果](/images/VincentZyu233-OBS-stage/preview.stream-only.png)
 
-![OBS Stage 在 OBS 中的半屏效果](/images/preview.obs-stage.png)
+![OBS Stage 在 OBS 中的半屏效果](/images/VincentZyu233-OBS-stage/preview.obs.png)
 
-![OBS Stage 在 B站直播姬中的效果](/images/preview.bili-livehime.png)
+![OBS Stage 在 B站直播姬中的效果](/images/VincentZyu233-OBS-stage/preview.bili-livehime.png)
 
 [查看 OBS Stage GitHub 仓库](https://github.com/VincentZyuLive/VincentZyu233-OBS-stage)

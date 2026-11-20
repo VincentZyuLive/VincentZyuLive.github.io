@@ -47,15 +47,15 @@ flowchart LR
 
 > ↓ 透明浮层效果：独立展示歌曲封面、歌名、歌词、播放进度与时间。
 
-![透明浮层效果](/images/preview.splayer-obs-html-overlay.overlay-only.png)
+![透明浮层效果](/images/splayer-status-html-overlay-for-obs/preview.overlay-only.png)
 
 > ↓ OBS 端效果：浏览器源 `splayer-overlay` 叠加在 OBS 中的实际效果。
 
-![SPlayer OBS HTML Overlay 在 OBS 中的效果](/images/preview.splayer-obs-html-overlay.png)
+![SPlayer OBS HTML Overlay 在 OBS 中的效果](/images/splayer-status-html-overlay-for-obs/preview.obs.png)
 
 > ↓ B站手机客户端效果：同一套歌词挂件在手机直播间的观看效果。
 
-![SPlayer OBS HTML Overlay 在 B站手机端的观看效果](/images/preview.splayer-obs-html-overlay.phone.png)
+![SPlayer OBS HTML Overlay 在 B站手机端的观看效果](/images/splayer-status-html-overlay-for-obs/preview.phone.png)
 
 <BilibiliBadge />
 

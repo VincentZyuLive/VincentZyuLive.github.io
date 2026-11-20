@@ -6,6 +6,8 @@ const repositories = [
   "VincentZyuLive/splayer-status-html-overlay-for-obs",
   "VincentZyuLive/go-musicfox-vincentzyu-fork",
   "VincentZyuLive/bili-live-danmaku",
+  "VincentZyuLive/lazer-plugin-ws-server-bridge",
+  "VincentZyuLive/obs-manim-like-motion",
 ];
 const roomId = "5861873";
 const topicsPath = fileURLToPath(new URL("../data/github-topics.json", import.meta.url));

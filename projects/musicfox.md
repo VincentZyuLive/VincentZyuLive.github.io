@@ -28,7 +28,7 @@ HTTP 与 WebSocket 共用 `14558` 端口。服务默认只监听本机，不开�
 
 ## 🖼️ 实机预览
 
-![go-musicfox 与 OBS HTML Overlay 实机效果](/images/preview.musicfox.png)
+![go-musicfox 与 OBS HTML Overlay 实机效果](/images/go-musicfox-vincentzyu-fork/preview.obs.html.overlay.png)
 
 <BilibiliBadge />
 

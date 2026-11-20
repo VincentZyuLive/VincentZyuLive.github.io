@@ -5,8 +5,8 @@ import type { ProjectCardData } from "../../../data/types.ts";
 
 const props = defineProps<{ project: ProjectCardData }>();
 
-const visibleTopics = computed(() => props.project.topics.slice(0, 10));
-const extraTopicCount = computed(() => Math.max(0, props.project.topics.length - visibleTopics.value.length));
+const visibleTopics = computed(() => props.project.topics);
+const extraTopicCount = computed(() => 0);
 const allTopics = computed(() => props.project.topics.join(" · "));
 
 function resolvePreview(source: string) {
