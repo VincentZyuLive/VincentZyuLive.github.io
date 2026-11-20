@@ -88,7 +88,7 @@ B站直播透明弹幕浮层，支持礼物、入场合并、SC、自定义字�
 
 ### 6. `obs-manim-like-motion`
 
-将 Manim 数学动画哲学与 GPU 实时线稿素描带入 OBS Studio 的高质感转场与动效插件 (C++20 / HLSL)。
+将 Manim 数学动画哲学与平滑曲线动效带入 OBS Studio 的高质感转场插件 (C++20 / HLSL)。
 
 * **源仓库**：[`VincentZyuLive/obs-manim-like-motion`](https://github.com/VincentZyuLive/obs-manim-like-motion)
 * **默认分支**：`main`

@@ -140,7 +140,7 @@ export const assetRegistry = [
     repo: "VincentZyuLive/obs-manim-like-motion",
     branch: "main",
     title: "obs-manim-like-motion",
-    description: "将 Manim 数学动画哲学与 GPU 实时线稿素描带入 OBS Studio 的高质感转场与动效插件 (C++20 / HLSL)。",
+    description: "将 Manim 数学动画哲学与平滑曲线动效带入 OBS Studio 的高质感转场插件 (C++20 / HLSL)。",
     images: [
       {
         file: "preview.gif",

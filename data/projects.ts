@@ -62,7 +62,7 @@ export const projects: ProjectCardData[] = [
   {
     name: "Manim Motion Transition",
     version: "0.3.0",
-    description: "将 Manim 数学动画哲学与 GPU 实时线稿素描带入 OBS Studio 的高质感转场与手绘动效插件。",
+    description: "将 Manim 数学动画哲学与平滑曲线动效带入 OBS Studio 的高质感转场插件。",
     repo: "https://github.com/VincentZyuLive/obs-manim-like-motion",
     preview: "/images/obs-manim-like-motion/preview.gif",
     previewFallback: "/images/obs-manim-like-motion/preview.gif",
