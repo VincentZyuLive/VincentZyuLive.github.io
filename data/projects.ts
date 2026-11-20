@@ -5,6 +5,28 @@ const githubTopics = githubTopicsJson as Record<string, string[]>;
 
 export const projects: ProjectCardData[] = [
   {
+    name: "Manim Motion Transition",
+    version: "0.3.0",
+    description: "将 Manim 数学动画哲学与 GPU 实时线稿素描带入 OBS Studio 的高质感转场与手绘动效插件。",
+    repo: "https://github.com/VincentZyuLive/obs-manim-like-motion",
+    preview: "https://raw.githubusercontent.com/VincentZyuLive/.github/main/profile/assets/obs-manim-motion.gif",
+    previewFallback: "https://raw.githubusercontent.com/VincentZyuLive/.github/main/profile/assets/obs-manim-motion.gif",
+    previewFocus: "center",
+    accent: "#7FA8E8",
+    topics: githubTopics["VincentZyuLive/obs-manim-like-motion"] ?? ["obs-plugin", "obs-transition", "manim", "shader"],
+  },
+  {
+    name: "Lazer WS Server Bridge",
+    version: "0.1.0",
+    description: "为 osu!lazer 游戏客户端提供实时谱面状态数据同步与 WebSocket 桥接的 Lua / 脚本插件。",
+    repo: "https://github.com/VincentZyuLive/lazer-plugin-ws-server-bridge",
+    preview: "https://raw.githubusercontent.com/VincentZyuLive/.github/main/profile/assets/obs-stage.png",
+    previewFallback: "/images/preview.obs-stage.png",
+    previewFocus: "center",
+    accent: "#FF66AA",
+    topics: githubTopics["VincentZyuLive/lazer-plugin-ws-server-bridge"] ?? ["osu", "lazer", "websocket", "lua"],
+  },
+  {
     name: "OBS Stage",
     version: "0.1.0",
     description: "可编辑的水色雾蓝舞台背景、前景装饰与 OBS WebSocket 管理工具。",

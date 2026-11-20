@@ -38,6 +38,13 @@ export const obsPlugins: ObsPlugin[] = [
     url: obsStudioRepo,
   },
   {
+    name: "Manim Motion Transition",
+    version: "0.3.0",
+    source: "VincentZyuLive",
+    purpose: "将 Manim 数学动画哲学与 GPU 实时线稿素描带入 OBS，提供解耦手绘推写与动态转场。",
+    url: "https://github.com/VincentZyuLive/obs-manim-like-motion",
+  },
+  {
     name: "Move Transition",
     version: "3.2.1",
     source: "第三方",
