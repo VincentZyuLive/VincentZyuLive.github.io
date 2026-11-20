@@ -47,7 +47,7 @@ flowchart LR
 
 > ↓ 透明浮层效果：独立展示歌曲封面、歌名、歌词、播放进度与时间。
 
-![透明浮层效果](/images/splayer-status-html-overlay-for-obs/preview.overlay-only.png)
+![透明浮层效果](/images/splayer-status-html-overlay-for-obs/preview.overlay-only.gif)
 
 > ↓ OBS 端效果：浏览器源 `splayer-overlay` 叠加在 OBS 中的实际效果。
 

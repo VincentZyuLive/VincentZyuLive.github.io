@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "sync:site-data": "node scripts/sync-site-data.mjs",
+    "sync:images": "node scripts/sync-image-assets.mjs",
     "docs:dev": "npm run sync:site-data && vitepress dev --port 16162",
     "docs:build": "npm run sync:site-data && vitepress build",
     "docs:preview": "vitepress preview --port 16162"
